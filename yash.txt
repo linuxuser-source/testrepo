@@ -1,7 +1,5 @@
 this is a git respository
 this is a GitHub account
-this is the azure account 
-
 
 
 
